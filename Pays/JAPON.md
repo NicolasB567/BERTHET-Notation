@@ -2,4 +2,4 @@
   - Tokyo
   - 126 451 398 habitants
   - Japonais
-  - ![DrapeauJapon](https://fr.wikipedia.org/wiki/Japon#/media/File:Flag_of_Japan.svg)
+  - ![DrapeauJapon](http://www.xn--icne-wqa.com/images/icones/4/2/flag-jp.png)

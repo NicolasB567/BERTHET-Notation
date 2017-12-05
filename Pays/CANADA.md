@@ -2,4 +2,4 @@
   - OTTAWA
   - 36 048 521 habitants
   - Anglais et Français
-  - ![DrapeauCanadien](https://fr.wikipedia.org/wiki/Canada#/media/File:Flag_of_Canada_(Pantone).svg)
+  - ![DrapeauCanadien](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjgvNKlgvTXAhWBlBQKHRuiDE0QjRwIBw&url=http%3A%2F%2Fwww.xn--icne-wqa.com%2Ftag-canada-0&psig=AOvVaw38BVFY657FCOaHbNtthlGR&ust=1512602495813120)
